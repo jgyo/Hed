@@ -13,7 +13,7 @@ I decided to write **Hed** when I started a video
 series based on Nand2Tetris to help users edit these files.
 
 The program is easy to use. Download the
-latest release, unzip it, and execute one of the install
+[latest release,](https://github.com/jgyo/hed/releases) unzip it, and execute one of the install
 files to install the program. You may receive a warning about
 installing software from "unknown sources." Please ignore those
 warnings to complete the install.
