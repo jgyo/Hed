@@ -1,0 +1,9 @@
+1.0.0.4     2024/03/30      Removed templated column in Parts grid because it made editing
+                            more difficult. Unfortunately(?) this means the dropdown list of
+                            part names will not be available. I don't think it adds much
+                            though anyway.
+                            Added a new Help menu item to open a known parts list window
+                            as a substitute for the lost dropdown list mentioned above.
+                            Fixed more regex problems that caused some files not to load.
+1.0.0.3     2024/03/28      Fixed a problem that caused some valid HDL files not to load.
+1.0.0.2     2024/03/27      First public release at github.com.
